@@ -1,5 +1,7 @@
 class Nif {
-   public static void main (String[] args) {
+   //atributos
+   private int numero;
+   private char letra;
+   //constructor...
    
-   }//fin main
 } //fin class
