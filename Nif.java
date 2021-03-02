@@ -6,6 +6,7 @@ class Nif {
    public Nif (int numero, char letra){
    this.numero=numero;
    this.letra=letra;
+   //ghfdsah
    }
    
 } //fin class
